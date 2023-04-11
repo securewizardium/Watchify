@@ -1,2 +1,2 @@
 # Watchify
-Watchify is a desktop application to watch and track the shows and movies you love.
+Watchify is a desktop application to watch and track shows and movies.
