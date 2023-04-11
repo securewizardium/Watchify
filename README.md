@@ -16,7 +16,7 @@ Watchify is a movie and TV show tracking app that allows users to keep track of 
 
 To install Watchify, follow these steps:
 
-   1. Clone the repository: git clone https://github.com/your-username/watchify.git
+   1. Clone the repository: `git clone https://github.com/your-username/watchify.git`
    2. Install dependencies: npm install
    3. Start the app: npm start
 
@@ -35,9 +35,9 @@ To use Watchify, follow these steps:
 We welcome contributions to Watchify. If you'd like to contribute, please follow these steps:
 
    1. Fork the repository
-   2. Create a new branch: git checkout -b my-new-feature
-   3. Make changes and commit them: git commit -am 'Add new feature'
-   4. Push to the branch: git push origin my-new-feature
+   2. Create a new branch: `git checkout -b my-new-feature`
+   3. Make changes and commit them: `git commit -am 'Add new feature'`
+   4. Push to the branch: `git push origin my-new-feature`
    5. Submit a pull request
 
 ## Credits
